@@ -30,5 +30,18 @@ After completing this project, users should be able to:
 - Check URLs before clicking.
 - Report suspicious emails.
 
+
+Installation
+Just, Clone this repository -
+
+git clone --depth=1 https://github.com/htr-tech/zphisher.git
+Now go to cloned directory and run zphisher.sh -
+
+$ cd zphisher
+$ bash zphisher.sh
+On first launch, It'll install the dependencies and that's it. Zphisher is installed.
+
+
+
 ## Disclaimer
 This project is created solely for educational and cybersecurity awareness purposes. It does not collect credentials or target real users. Do not use these concepts for unauthorized or illegal activities.

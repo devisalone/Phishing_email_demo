@@ -45,7 +45,13 @@ $ bash zphisher.sh
 
 On first launch, It'll install the dependencies and that's it. Zphisher is installed.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec2383c2-dac8-4536-b049-d3f7cc80b761" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fa77d43-251a-4990-acee-a2ea585ddc91" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9389cbc2-68c0-4661-98e5-1ed28c060e6e" />
+## Phishing Email 
+Used https://emkei.cz/
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/de15d7a0-6e69-4989-8a74-61ca1b91f13a" />
 
 ## Disclaimer
 This project is created solely for educational and cybersecurity awareness purposes. It does not collect credentials or target real users. Do not use these concepts for unauthorized or illegal activities.
